@@ -76,7 +76,7 @@ career-profile:
 experiences:
     title: Experiences
     info:
-    - role: Product Owner for Support for Mission Critical internal solutions
+      - role: Product Owner for Support for Mission Critical internal solutions
         time: 2023 - Present
         company: Microsoft
         details: |
