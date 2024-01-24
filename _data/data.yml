@@ -39,13 +39,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-Working as a Mission Critical Customer Lead in the Customer
-Success Team means working with Microsoft’s highest profile
-customers as part of a team that delivers the best support
-experience that Microsoft has to offer. We act as trusted technical
-advisors and proactive partners and prove our strong customer
-focus and highly diversified skills day to day to make sure that we
-empower the customer to achieve more.
+      Working as a Mission Critical Customer Lead in the Customer
+      Success Team means working with Microsoft’s highest profile
+      customers as part of a team that delivers the best support
+      experience that Microsoft has to offer. We act as trusted technical
+      advisors and proactive partners and prove our strong customer
+      focus and highly diversified skills day to day to make sure that we
+      empower the customer to achieve more.
 
 #education:
 #    title: Education
@@ -85,34 +85,22 @@ experiences:
             - Contribute to Vision and Roadmap for Support for Mission Critical solutions
             - Ensure adherance to internal compliance, privacy and accessability assessments and guidelines
             - Work with multiple internal stakeholders (field engineers, support engineers, Business Program Managers and People Managers) to get feedback and insights about SfMC tooling
-      - role: Principal Cloud Solution Architect for Microsoft 365 and Customer Lead
-for Mission Critical Solutions
+      - role: Principal Cloud Solution Architect for Microsoft 365 and Customer Lead for Mission Critical Solutions
         time: 2015 - Present
         company: Microsoft
         details: |
-          Strong technical problem solver with broad experience in enterprise-size
-Messaging and Identity solutions.
-Experience in data analysis with SQL, KQL, Python and automation with
-PowerShell.
-            - Act as single point of contact for technical questions, support experience and
-escalations for very large, Mission Critical customers.
-- Help customers to protect against evolving threats in the E-Mail landscape
-and support SecOps teams in evaluation, rollout and integration of Microsoft
-Defender for Office, Advanced Threat Hunting, Investigation, Response,
-Reporting and Attack Simulation capabilities.
-- Empower customers to formulate valuable product feedback around
-Exchange Online and Microsoft Defender for Office; drive feedback and
-insights from the field into product engineering teams and make sure the
-customer is represented internally.
+          Strong technical problem solver with broad experience in enterprise-size Messaging and Identity solutions.
+          Experience in data analysis with SQL, KQL, Python and automation with PowerShell.
+            - Act as single point of contact for technical questions, support experience and escalations for very large, Mission Critical customers.
+            - Help customers to protect against evolving threats in the E-Mail landscape and support SecOps teams in evaluation, rollout and integration of Microsoft Defender for Office, Advanced Threat Hunting, Investigation, Response, Reporting and Attack Simulation capabilities.
+            - Empower customers to formulate valuable product feedback around Exchange Online and Microsoft Defender for Office; drive feedback and insights from the field into product engineering teams and make sure the customer is represented internally.
       - role: Technical Consultant
         time: 2013 - 2015
         company: SPIRIT/21 AG
         details: |
-          Act as Technical Lead for Messaging projects with worldwide project teams in
-different industries.
-- Create specification, architecture and design documents for global
-Messaging environments.
-- Handle Project Management tasks for global projects with worldwide teams.
+          Act as Technical Lead for Messaging projects with worldwide project teams in different industries.
+            - Create specification, architecture and design documents for global Messaging environments.
+            - Handle Project Management tasks for global projects with worldwide teams.
 
       - role: UI Developer
         time: 2012 - 2014
