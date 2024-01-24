@@ -104,17 +104,16 @@ Reporting and Attack Simulation capabilities.
 Exchange Online and Microsoft Defender for Office; drive feedback and
 insights from the field into product engineering teams and make sure the
 customer is represented internally.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Technical Consultant
+        time: 2013 - 2015
+        company: SPIRIT/21 AG
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Act as Technical Lead for Messaging projects with worldwide project teams in
+different industries.
+- Create specification, architecture and design documents for global
+Messaging environments.
+- Handle Project Management tasks for global projects with worldwide teams.
+
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
