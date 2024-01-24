@@ -20,80 +20,90 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: German
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Machining & Electronics
           link:
 
-        - item: Snowboarding
+        - item: Traveling
           link:
 
-        - item: Cooking
-          link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+Working as a Mission Critical Customer Lead in the Customer
+Success Team means working with Microsoft’s highest profile
+customers as part of a team that delivers the best support
+experience that Microsoft has to offer. We act as trusted technical
+advisors and proactive partners and prove our strong customer
+focus and highly diversified skills day to day to make sure that we
+empower the customer to achieve more.
+
+#education:
+#    title: Education
+#    info:
+#      - degree: MSc in Computer Science
+#        university: University of London
+#        time: 2011 - 2012
+#        details: |
+#          Describe your study here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#          sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#          pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
+#      - degree: BSc in Applied Mathematics
+#        university: Bristol University
+#        time: 2007 - 2011
+#        details: |
+#          Describe your study here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#          sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#          pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+    role: Product Owner for Support for Mission Critical internal solutions
+        time: 2023 - Present
+        company: Microsoft
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Product Owner for multiple organisation-wide internal solutions with a userbase of multiple thousand and a dedicated development team.
+            - Create and maintain product backlog for 5 solutions
+            - Contribute to Vision and Roadmap for Support for Mission Critical solutions
+            - Ensure adherance to internal compliance, privacy and accessability assessments and guidelines
+            - Work with multiple internal stakeholders (field engineers, support engineers, Business Program Managers and People Managers) to get feedback and insights about SfMC tooling
+      - role: Principal Cloud Solution Architect for Microsoft 365 and Customer Lead
+for Mission Critical Solutions
+        time: 2015 - Present
+        company: Microsoft
+        details: |
+          Strong technical problem solver with broad experience in enterprise-size
+Messaging and Identity solutions.
+Experience in data analysis with SQL, KQL, Python and automation with
+PowerShell.
+            - Act as single point of contact for technical questions, support experience and
+escalations for very large, Mission Critical customers.
+- Help customers to protect against evolving threats in the E-Mail landscape
+and support SecOps teams in evaluation, rollout and integration of Microsoft
+Defender for Office, Advanced Threat Hunting, Investigation, Response,
+Reporting and Attack Simulation capabilities.
+- Empower customers to formulate valuable product feedback around
+Exchange Online and Microsoft Defender for Office; drive feedback and
+insights from the field into product engineering teams and make sure the
+customer is represented internally.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
