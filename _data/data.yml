@@ -27,14 +27,14 @@ sidebar:
         - idiom: English
           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Machining & Electronics
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Machining & Electronics
+    #       link:
 
-        - item: Traveling
-          link:
+    #     - item: Traveling
+    #       link:
 
 
 career-profile:
