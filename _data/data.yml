@@ -77,7 +77,7 @@ career-profile:
 experiences:
     title: Experiences
     info:
-      - role: Product Owner for Support for Mission Critical internal solutions
+      - role: Product Owner for Support for Mission Critical team tools
         time: 2023 - Present
         company: Microsoft
         details: |
@@ -86,7 +86,7 @@ experiences:
             - Contribute to Vision and Roadmap for Support for Mission Critical solutions
             - Ensure adherance to internal compliance, privacy and accessability assessments and guidelines
             - Work with multiple internal stakeholders (field engineers, support engineers, Business Program Managers and People Manager) to get feedback and insights about SfMC tooling
-      - role: Principal Cloud Solution Architect for Microsoft 365 and Customer Lead for Mission Critical Solutions
+      - role: Cloud Solution Architect for Microsoft 365/Customer Lead for Mission Critical Solutions
         time: 2015 - Present
         company: Microsoft
         details: |
