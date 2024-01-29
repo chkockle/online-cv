@@ -82,17 +82,17 @@ experiences:
         company: Microsoft
         details: |
           Product Owner for multiple organisation-wide internal solutions with a userbase of multiple thousand and a dedicated development team.
-            - Create and maintain product backlog for 5 solutions
+            - Create and maintain product backlog for 5+ solutions
             - Contribute to Vision and Roadmap for Support for Mission Critical solutions
             - Ensure adherance to internal compliance, privacy and accessability assessments and guidelines
-            - Work with multiple internal stakeholders (field engineers, support engineers, Business Program Managers and People Managers) to get feedback and insights about SfMC tooling
+            - Work with multiple internal stakeholders (field engineers, support engineers, Business Program Managers and People Manager) to get feedback and insights about SfMC tooling
       - role: Principal Cloud Solution Architect for Microsoft 365 and Customer Lead for Mission Critical Solutions
         time: 2015 - Present
         company: Microsoft
         details: |
-          Strong technical problem solver with broad experience in enterprise-size Messaging and Identity solutions.
+          Strong technical problem solver with broad experience in enterprise-size Messaging, Messaging Security and Identity solutions.
           Experience in data analysis with SQL, KQL, Python and automation with PowerShell.
-            - Act as single point of contact for technical questions, support experience and escalations for very large, Mission Critical customers.
+            - Act as single point of contact for technical questions, support experience and escalations for Global 500 companies.
             - Help customers to protect against evolving threats in the E-Mail landscape and support SecOps teams in evaluation, rollout and integration of Microsoft Defender for Office, Advanced Threat Hunting, Investigation, Response, Reporting and Attack Simulation capabilities.
             - Empower customers to formulate valuable product feedback around Exchange Online and Microsoft Defender for Office; drive feedback and insights from the field into product engineering teams and make sure the customer is represented internally.
       - role: Technical Consultant
